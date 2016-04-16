@@ -26,7 +26,7 @@ import android.widget.RelativeLayout;
 import org.hopestarter.wallet.WalletApplication;
 import org.hopestarter.wallet.data.UserInfoPrefs;
 import org.hopestarter.wallet.ui.view.IconFragmentPagerAdapter;
-import org.hopestarter.wallet_test.R;
+import org.hopestarter.wallet.R;
 
 public class MainTabbedActivity extends AbstractWalletActivity implements WalletFragment.OnFragmentInteractionListener{
 
